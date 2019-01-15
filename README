@@ -1,0 +1,6 @@
+
+All commands to be run from the lab directory
+
+To build: make all
+
+To run: ./count <input-filename> <search-string> <output-filename>
